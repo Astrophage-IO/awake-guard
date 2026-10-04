@@ -2,7 +2,11 @@
 
 A portable Windows application that prevents idle sleep and provides best-effort shutdown and restart protection.
 
-![AwakeGuard interface](Preview.png)
+## Screenshot
+
+![AwakeGuard app showing active sleep and restart protection](./Preview.png)
+
+The main window with sleep prevention and restart protection enabled.
 
 ## Run
 
